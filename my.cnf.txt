@@ -1,0 +1,1 @@
+echo -e "[client]\nhost=${dbConfig.host}\nuser=${dbConfig.user}\npassword=${dbConfig.password}\n" > my.cnf

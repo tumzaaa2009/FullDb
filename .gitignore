@@ -1,0 +1,13 @@
+# .gitignore
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore specific files
+mydbrh4.js
+index.js
+
+backupshie
+backupsRh4
+New folder
+y
